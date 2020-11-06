@@ -2,7 +2,7 @@
 
 @section('content')
     <h1> {{$title}} </h1>
-    <p> Melayani jasa </p>
+    <p> Melayani jasa-jasa sebagai berikut: </p>
     @if(count($services) > 0)
         <ul>
             @foreach($services as $service)
