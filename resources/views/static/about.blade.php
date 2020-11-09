@@ -10,4 +10,8 @@
             @endforeach
         </ul>
     @endif
+    <p> Website ini dibuat oleh: <p>
+    <ol>
+        <li> Rohizh </li>
+    <ol>
 @endsection
