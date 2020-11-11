@@ -13,5 +13,6 @@
     <p> Website ini dibuat oleh: <p>
     <ol>
         <li> Rohizh </li>
+        <li>Muhamad RAMADHANI Zuliansyah</li>
     <ol>
 @endsection
