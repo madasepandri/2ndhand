@@ -12,6 +12,6 @@
     @endif
     <p> Website ini dibuat oleh: <p>
     <ol>
-        <li> Rohizh </li>
+        <li> Rohizh Ramshinha (6304181122)</li>
     <ol>
 @endsection
