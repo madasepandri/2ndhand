@@ -13,5 +13,6 @@
     <p> Website ini dibuat oleh: <p>
     <ol>
         <li> Rohizh </li>
+        <li> Rian Arianto S </li>
     <ol>
 @endsection
