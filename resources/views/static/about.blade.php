@@ -10,7 +10,7 @@
             @endforeach
         </ul>
     @endif
-    <p> Website ini dibuat oleh: <p>
+    <p> Website ini dibuat oleh: Rahmad Hidayat Rambe <p>
     <ol>
         <li> Rohizh </li>
     <ol>
