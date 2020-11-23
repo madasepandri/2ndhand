@@ -12,6 +12,6 @@
     @endif
     <p> Website ini dibuat oleh: <p>
     <ol>
-        <li> Rohizh </li>
+        <li> Dikki Hariyanto </li>
     <ol>
 @endsection
